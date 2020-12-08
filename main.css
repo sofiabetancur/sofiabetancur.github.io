@@ -1,0 +1,42 @@
+header{
+  background-color:#db96ac;
+  font-family: "Trebuchet MS", Helvetica, sans-serif
+}
+
+#ref{
+  border-style: double;
+}
+
+img{
+  width:220px;
+  height:163px;
+}
+
+footer{
+  background-color: #db96ac;
+}
+
+body{
+  background-color: #E1A9BB;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+h4{
+  color: white;
+}
+
+h5{
+  color: white;
+}
+
+h2{
+  color: white;
+}
+
+#author{
+  color: white;
+}
+
+p{
+  color: white;
+}
